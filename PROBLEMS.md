@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 4 / 100**
+**Completed: 5 / 100**
 
 ---
 
@@ -23,5 +23,8 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 ### Easy
 
 - [x] 04. Primitive Type Lab
-- [ ] 05. Integer to Double
+
+### Medium
+
+- [x] 05. Integer to Double
 - [ ] 06. Double to Integer
