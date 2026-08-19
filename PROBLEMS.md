@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 5 / 100**
+**Completed: 6 / 100**
 
 ---
 
@@ -27,4 +27,4 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 ### Medium
 
 - [x] 05. Integer to Double
-- [ ] 06. Double to Integer
+- [x ] 06. Double to Integer
