@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 2 / 100**
+**Completed: 3 / 100**
 
 ---
 
@@ -14,4 +14,4 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 - [x] 01. Hello Backend
 - [x] 02. Developer Profile
-- [ ] 03. Salary Calculator
+- [x] 03. Salary Calculator
