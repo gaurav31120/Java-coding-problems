@@ -35,4 +35,10 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ### Medium
 
-- [] 07. Eligibility Checker
+- [x] 07. Eligibility Checker
+
+# 03. COnditionals
+
+### Medium
+
+- [x] 08. Grade calculator
