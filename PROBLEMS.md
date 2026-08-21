@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 7 / 100**
+**Completed: 8 / 100**
 
 ---
 

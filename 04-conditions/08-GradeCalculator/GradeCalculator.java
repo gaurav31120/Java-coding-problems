@@ -5,16 +5,16 @@ class GradeCalculator {
 
         Scanner sc = new Scanner(System.in);
 
-        System.err.println("Enter Java marks:");
+        System.out.println("Enter Java marks:");
 
         int java = sc.nextInt();
-        System.err.println("Enter SQL marks:");
+        System.out.println("Enter SQL marks:");
         int sql = sc.nextInt();
-        System.err.println("Enter Spring boot marks:");
+        System.out.println("Enter Spring boot marks:");
         int springBoot = sc.nextInt();
 
         if((java < 0 || java > 100) || (sql < 0 || sql > 100) || (springBoot < 0 || springBoot > 100)) {
-            System.err.println("Invalid marks");
+            System.out.println("Invalid marks");
         }
             // valid marks
         else {
@@ -59,12 +59,12 @@ class GradeCalculator {
             if(springBoot == highestMarks) {
                 highestSubject = highestSubject + "Spring Boot ";
             }
-            System.err.println("Report card");
+            System.out.println("Report card");
 
-            System.err.println("Average: " + average);
-            System.err.println("Grade: " + grade);
-            System.err.println("Highest Subject: " + highestSubject);
-            System.err.println("Result: " + result);
+            System.out.println("Average: " + average);
+            System.out.println("Grade: " + grade);
+            System.out.println("Highest Subject: " + highestSubject);
+            System.out.println("Result: " + result);
             
 
         }
