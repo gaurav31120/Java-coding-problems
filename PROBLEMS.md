@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 8 / 100**
+**Completed: 9 / 135**
 
 ---
 
@@ -37,8 +37,11 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 - [x] 07. Eligibility Checker
 
-# 03. COnditionals
+---
+
+# 04. Conditions
 
 ### Medium
 
-- [x] 08. Grade calculator
+- [x] 08. Grade Calculator
+- [x] 09. Electricity Bill Calculator
