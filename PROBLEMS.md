@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 15 / 135**
+**Completed: 16 / 135**
 
 ---
 
@@ -58,3 +58,4 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 - [x] 13. Number Pattern Counter
 - [x] 14. Multiplication Table Analyzer
 - [x] 15. Prime Number Checker
+- [x] 16. Prime Numbers in a Range
