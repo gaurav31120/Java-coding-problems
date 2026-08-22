@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 10 / 135**
+**Completed: 12 / 135**
 
 ---
 
@@ -46,3 +46,12 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 - [x] 08. Grade Calculator
 - [x] 09. Electricity Bill Calculator
 - [x] 10. Menu-Based Calculator
+
+---
+
+# 05. Loops
+
+### Medium
+
+- [x] 11. Range Number Analyzer
+- [x] 12. Number Digit Analyzer
