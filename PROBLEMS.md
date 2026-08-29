@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 24/ 135**
+**Completed: 26/ 135**
 
 ---
 
@@ -73,3 +73,4 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 - [x] 64. Employee → Manager
 - [x] 65. Payment Override
 - [x] 66. Runtime Polymorphism
+- [x] 67. Compile-Time Polymorphism
