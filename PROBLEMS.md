@@ -59,3 +59,9 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 - [x] 14. Multiplication Table Analyzer
 - [x] 15. Prime Number Checker
 - [x] 16. Prime Numbers in a Range
+
+---
+
+# 11. OOP
+
+- [x] 58. Employee Class
