@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 20 / 135**
+**Completed: 21/ 135**
 
 ---
 
@@ -68,3 +68,4 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 - [x] 59. Employee Constructors
 - [x] 60. this Keyword
 - [x] 61. Bank Account
+- [x] 62. Employee Encapsulation
