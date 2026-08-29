@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 16 / 135**
+**Completed: 18 / 135**
 
 ---
 
@@ -65,3 +65,4 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 # 11. OOP
 
 - [x] 58. Employee Class
+- [x] 59. Employee Constructors
