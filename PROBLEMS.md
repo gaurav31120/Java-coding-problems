@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 23/ 135**
+**Completed: 24/ 135**
 
 ---
 
@@ -71,3 +71,4 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 - [x] 62. Employee Encapsulation
 - [x] 63. Employee Object Counter
 - [x] 64. Employee → Manager
+- [x] 65. Payment Override
