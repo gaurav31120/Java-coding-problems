@@ -69,3 +69,4 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 - [x] 60. this Keyword
 - [x] 61. Bank Account
 - [x] 62. Employee Encapsulation
+- [x] 63. Employee Object Counter
