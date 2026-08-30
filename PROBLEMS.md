@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 33/ 135**
+**Completed: 35/ 135**
 
 ---
 
@@ -87,3 +87,4 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 - [x] 85. Set Duplicate Removal
 - [x] 86. TreeSet Sorted Set
 - [x] 87. HashMap CRUD
+- [x] 88. keySet / entrySet
