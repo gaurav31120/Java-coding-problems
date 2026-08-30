@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 28/ 135**
+**Completed: 29/ 135**
 
 ---
 
@@ -81,3 +81,4 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 # 13. Collections
 
 - [x] 81. ArrayList CRUD
+- [x] 82. List Search/Remove
