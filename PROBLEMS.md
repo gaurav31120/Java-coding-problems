@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 40/ 135**
+**Completed: 41/ 135**
 
 ---
 
@@ -93,3 +93,9 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 - [x] 91. TreeMap
 - [x] 92. LinkedHashMap
 - [x] 93. ConcurrentHashMap
+
+---
+
+# 15. Streams
+
+- [x] 104. Filter Employees
