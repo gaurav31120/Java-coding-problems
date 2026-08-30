@@ -86,3 +86,4 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 - [x] 84. Unique Values
 - [x] 85. Set Duplicate Removal
 - [x] 86. TreeSet Sorted Set
+- [x] 87. HashMap CRUD
