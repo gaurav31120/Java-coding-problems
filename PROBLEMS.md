@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 32/ 135**
+**Completed: 33/ 135**
 
 ---
 
@@ -85,3 +85,4 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 - [x] 83. LinkedList Task Queue
 - [x] 84. Unique Values
 - [x] 85. Set Duplicate Removal
+- [x] 86. TreeSet Sorted Set
