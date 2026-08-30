@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 38/ 135**
+**Completed: 39/ 135**
 
 ---
 
@@ -91,3 +91,4 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 - [x] 89. Word Frequency
 - [x] 90. Character Frequency
 - [x] 91. TreeMap
+- [x] 92. LinkedHashMap
