@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 44/ 135**
+**Completed: 47/ 135**
 
 ---
 
@@ -104,3 +104,4 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 - [x] 107. Stream Sorting
 - [x] 108. Unique Stream
 - [x] 109. Group Employees
+- [x] 110. Salary Partition
