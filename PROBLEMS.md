@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 51/ 135**
+**Completed: 52/ 135**
 
 ---
 
@@ -61,6 +61,11 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 - [x] 16. Prime Numbers in a Range
 
 ---
+
+# 08. Arrays
+
+- [x] 28. Array Explorer
+
 
 # 11. OOP
 
