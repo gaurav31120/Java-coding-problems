@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 29/ 135**
+**Completed: 30/ 135**
 
 ---
 
@@ -82,3 +82,4 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 - [x] 81. ArrayList CRUD
 - [x] 82. List Search/Remove
+- [x] 83. LinkedList Task Queue
