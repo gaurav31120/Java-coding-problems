@@ -103,3 +103,4 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 - [x] 106. Salary Aggregation
 - [x] 107. Stream Sorting
 - [x] 108. Unique Stream
+- [x] 109. Group Employees
