@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 36/ 135**
+**Completed: 37/ 135**
 
 ---
 
@@ -89,3 +89,4 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 - [x] 87. HashMap CRUD
 - [x] 88. keySet / entrySet
 - [x] 89. Word Frequency
+- [x] 90. Character Frequency
