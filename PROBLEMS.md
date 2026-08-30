@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 48/ 135**
+**Completed: 49/ 135**
 
 ---
 
@@ -106,3 +106,10 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 - [x] 109. Group Employees
 - [x] 110. Salary Partition
 - [x] 111. Employee Map
+
+
+---
+
+# 16. Optional
+
+- [x] 112. Optional User
