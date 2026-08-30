@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 49/ 135**
+**Completed: 50/ 135**
 
 ---
 
@@ -113,3 +113,4 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 # 16. Optional
 
 - [x] 112. Optional User
+- [x] 113. Optional Mapping
