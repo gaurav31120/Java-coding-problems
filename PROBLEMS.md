@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 59/ 135**
+**Completed: 60/ 135**
 
 ---
 
@@ -86,6 +86,12 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 - [x] 66. Runtime Polymorphism
 - [x] 67. Compile-Time Polymorphism
 - [x] 68. Abstract Payment
+
+---
+
+# 12. Wrappers, Enums & Generics
+
+- [x] 73. Autoboxing
 
 ---
 
