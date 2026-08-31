@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 53/ 135**
+**Completed: 54/ 135**
 
 ---
 
@@ -66,6 +66,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 - [x] 28. Array Explorer
 - [x] 29. Array Sum/Average
+- [x] 30. Max & Min
 
 
 # 11. OOP
