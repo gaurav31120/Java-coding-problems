@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 63/ 135**
+**Completed: 64/ 135**
 
 ---
 
@@ -95,6 +95,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 - [x] 74. Unboxing
 - [x] 75. Order Status
 - [x] 76. Generic Box
+- [x] 77. Generic Utility
 
 ---
 
