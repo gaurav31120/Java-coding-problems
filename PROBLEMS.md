@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 56/ 135**
+**Completed: 57/ 135**
 
 ---
 
@@ -69,6 +69,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 - [x] 30. Max & Min
 - [x] 31. Reverse Array
 - [x] 32. Linear Search
+- [x] 33. Second Largest
 
 
 # 11. OOP
