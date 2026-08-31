@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 66/ 135**
+**Completed: 67/ 135**
 
 ---
 
@@ -98,6 +98,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 - [x] 77. Generic Utility
 - [x] 78. Number Utility
 - [x] 79. extends / super
+- [x] 80. Generic Repository
 
 ---
 
