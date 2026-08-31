@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 58/ 135**
+**Completed: 59/ 135**
 
 ---
 
@@ -104,6 +104,12 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 - [x] 91. TreeMap
 - [x] 92. LinkedHashMap
 - [x] 93. ConcurrentHashMap
+
+---
+
+# 14. Lambda & Functional Interfaces
+
+- [x] 100. Lambda Calculator
 
 ---
 
