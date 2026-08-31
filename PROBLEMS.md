@@ -4,7 +4,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 
 ## Progress
 
-**Completed: 60/ 135**
+**Completed: 61/ 135**
 
 ---
 
@@ -92,6 +92,7 @@ Complete hands-on Java practice from fundamentals to advanced concepts.
 # 12. Wrappers, Enums & Generics
 
 - [x] 73. Autoboxing
+- [x] 74. Unboxing
 
 ---
 
